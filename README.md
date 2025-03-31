@@ -1,5 +1,5 @@
 # credit-risk-classification
-
+- Credit_Risk folder has the main jupyter notebook `credit_risk_classification.ipynb` used for the project and the csv file `lending_data.csv` containing the data 
 ## Overview of the Analysis
 
 * This project uses a dataset of historical lending activity `lending_data.csv` from a peer-to-peer lending services company to build a model `logistic regression model` that can identify the creditworthiness of borrowers.
